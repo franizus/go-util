@@ -7,7 +7,7 @@ import (
 	"testing/iotest"
 	"unicode"
 
-	"github.com/yerden/go-util/assert"
+	"github.com/franizus/go-util/assert"
 )
 
 func TestScanWordsWithQuotes(t *testing.T) {

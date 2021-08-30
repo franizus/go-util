@@ -1,9 +1,11 @@
 package lb
 
 import (
-	"github.com/yerden/go-util/assert"
 	"hash/crc32"
 	"math/rand"
+
+	"github.com/franizus/go-util/assert"
+
 	//"strconv"
 	"testing"
 	"time"

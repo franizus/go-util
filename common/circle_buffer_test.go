@@ -2,10 +2,11 @@ package common
 
 import (
 	//"fmt"
-	"github.com/yerden/go-util/assert"
 	"math/rand"
 	"testing"
 	"time"
+
+	"github.com/franizus/go-util/assert"
 )
 
 func TestCBuffer(t *testing.T) {

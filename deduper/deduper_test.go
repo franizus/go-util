@@ -1,9 +1,10 @@
 package deduper
 
 import (
-	"github.com/yerden/go-util/assert"
 	"math/rand"
 	"testing"
+
+	"github.com/franizus/go-util/assert"
 )
 
 type myInt int
